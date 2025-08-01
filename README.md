@@ -21,4 +21,4 @@ Open two terminals:
 
 Visit the website
 -> http://localhost:3000
-deploy link: https://food-ordering-nyvp.onrender.com/
+deploy link: https://food-ordering-8028.onrender.com/
